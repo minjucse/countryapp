@@ -1,0 +1,13 @@
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\bin\Debug\net9.0\CountryAPP.Core.deps.json
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\bin\Debug\net9.0\CountryAPP.Core.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\bin\Debug\net9.0\CountryAPP.Core.pdb
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.csproj.AssemblyReference.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.AssemblyInfoInputs.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.AssemblyInfo.cs
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.csproj.CoreCompileInputs.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.sourcelink.json
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\refint\CountryAPP.Core.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\CountryAPP.Core.pdb
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Core\obj\Debug\net9.0\ref\CountryAPP.Core.dll

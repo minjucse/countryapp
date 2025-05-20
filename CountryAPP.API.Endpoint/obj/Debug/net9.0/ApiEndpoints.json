@@ -1,0 +1,190 @@
+[
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AccountController",
+    "Method": "CreateOrEditUser",
+    "RelativePath": "v1/Account/CreateOrEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CountryAPP.Core.Model.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AccountController",
+    "Method": "DeleteUser",
+    "RelativePath": "v1/Account/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AccountController",
+    "Method": "GetAllUser",
+    "RelativePath": "v1/Account/GetAllUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AccountController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "v1/Account/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AuthController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "v1/Auth/GetCurrentUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AuthController",
+    "Method": "GetToken",
+    "RelativePath": "v1/Auth/GetToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInfo",
+        "Type": "CountryAPP.Core.Model.UserInfoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AuthController",
+    "Method": "Login",
+    "RelativePath": "v1/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lg",
+        "Type": "CountryAPP.Core.Model.UserLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "v1/Auth/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.CountriesController",
+    "Method": "GetCountryAsync",
+    "RelativePath": "v1/Countries/GetCountry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CountryAPP.Core.Model.CountryResponseModel, CountryAPP.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.V1.CountriesController",
+    "Method": "GetCountryDetailsAsync",
+    "RelativePath": "v1/Countries/GetCountryDetails/{countryName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CountryAPP.Core.Model.CountryDetailResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CountryAPP.API.Endpoint.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "api-version",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CountryAPP.API.Endpoint.WeatherForecast, CountryAPP.API.Endpoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

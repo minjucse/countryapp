@@ -1,0 +1,16 @@
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\bin\Debug\net9.0\CountryAPP.Infrastructure.deps.json
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\bin\Debug\net9.0\CountryAPP.Infrastructure.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\bin\Debug\net9.0\CountryAPP.Infrastructure.pdb
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\bin\Debug\net9.0\CountryAPP.Core.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\bin\Debug\net9.0\CountryAPP.Core.pdb
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.csproj.AssemblyReference.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.AssemblyInfoInputs.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.AssemblyInfo.cs
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.csproj.CoreCompileInputs.cache
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.sourcelink.json
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryA.E8CA1A56.Up2Date
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\refint\CountryAPP.Infrastructure.dll
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\CountryAPP.Infrastructure.pdb
+E:\My Project\CodingTestMinzuBegum\CountryAPP\CountryAPP.Infrastructure\obj\Debug\net9.0\ref\CountryAPP.Infrastructure.dll
